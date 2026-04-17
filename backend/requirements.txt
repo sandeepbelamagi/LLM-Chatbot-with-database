@@ -1,0 +1,14 @@
+fastapi
+uvicorn[standard]
+sqlalchemy
+psycopg2-binary
+pydantic
+pydantic-settings
+python-jose[cryptography]
+passlib[bcrypt]
+langchain
+euriai 
+langchain_community
+sentence-transformers
+ulid-py
+python-multipart
